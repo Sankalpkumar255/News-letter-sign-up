@@ -1,0 +1,16 @@
+{
+  "name": "newsletter_signup_project",
+  "version": "1.0.0",
+  "description": "This is a News-letter project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sankalp Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
